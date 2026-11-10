@@ -80,6 +80,3 @@ en TalkStep, puedes escribir a <a href="mailto:talkstep.app@gmail.com">talkstep.
   TalkStep · Política de privacidad · Última actualización: 10 de noviembre de 2026
 </footer>
 
-</main>
-</body>
-</html>
