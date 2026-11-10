@@ -1,8 +1,3 @@
-
-</head>
-<body>
-<main>
-
 <h1>Política de privacidad de TalkStep</h1>
 <p class="fecha">Última actualización: 10 de noviembre de 2026</p>
 
